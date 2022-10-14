@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahir
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BE Computer Engineering
+- 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me shikalgar.tahir04@gmail.com
 
 <!---
