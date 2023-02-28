@@ -3,12 +3,12 @@ Hi, I'm Md Tahir Shikalgar 👋
 I'm a computer engineering student from Mumbai, India, currently studying at FCRIT, Vashi. I enjoy working on web development projects, with a focus on React.
 
 Skills
-    HTML
-    CSS
-    Vanilla JS
-    Express.js (basic knowledge)
-    MongoDB (basic knowledge)
-    C programming
+    HTML|
+    CSS|
+    Vanilla JS|
+    Express.js (basic knowledge)|
+    MongoDB (basic knowledge)|
+    C programming|
     Java programming (basic knowledge)
 
 Projects
