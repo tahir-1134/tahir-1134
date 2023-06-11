@@ -5,11 +5,11 @@ I'm a computer engineering student from Mumbai, India, currently studying at FCR
 Skills  :
     HTML,
     CSS,
-    Vanilla JS,
-    Express.js (basic knowledge),
-    MongoDB (basic knowledge),
-    C programming,
-    Java programming (basic knowledge)
+    JS,
+    React.js
+    Node.js (Express),
+    MongoDB (Mongoose),
+    C & C++,
 
 Projects    :
     1:  A web application in MERN to provide a FORUM for community interaction. Partially implemented.
